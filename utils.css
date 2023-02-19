@@ -1,0 +1,40 @@
+.bg{
+    background: red;
+}
+
+.container{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row{
+    margin-top: 5px;
+}
+
+.clear{
+    width: 470px !important;
+    margin: 5px 0px;
+}
+
+.custom {
+    width: 100px !important;
+    margin: 5px 0px;
+}
+
+#inputdefault{
+    width: 472px;
+    height: 100px;
+    font-size: larger;
+    margin-bottom: 15px;
+}
