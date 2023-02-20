@@ -1,9 +1,14 @@
-html, body{
-    height: 100%;
-    width: 100%;
+html {
+
+    background-color: dimgrey;
 }
 
-h1{
+.main {
+    background-color: dimgrey;
+}
+
+
+h1 {
     /* text-align: center; */
     /* margin-top: 50px; */
 }
